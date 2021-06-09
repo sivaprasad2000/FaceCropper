@@ -2,7 +2,7 @@
 
 FaceCropper is a simple application to crop faces out of group photos
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/sivaprasad2000/FaceCropper/blob/main/images/mainWindow.png)
 
 ## Installation
 
